@@ -15,6 +15,8 @@ import:   https://raw.githubusercontent.com/kaptn-seebar/english-lia/main/grabbe
 
 # Digital Fellows
 
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/markjjacob/df-review/README.md#1)
+
 ## Without arguments
 
 @gr
