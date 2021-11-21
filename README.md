@@ -88,7 +88,7 @@ For an overview of all Digital Fellows in Saxony from 2019 to 2022, please click
 ## Implementations
 
 ### Presentations
-??(https://liascript.github.io/course/?https://raw.githubusercontent.com/BerndSchmecka/lia-presentation/main/presentation.md#1)
+??[](https://liascript.github.io/course/?https://raw.githubusercontent.com/BerndSchmecka/lia-presentation/main/presentation.md#1)
 
 #### Feedback
 
