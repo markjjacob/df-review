@@ -107,7 +107,7 @@ https://liascript.github.io/course/?https://raw.githubusercontent.com/HueblerPat
 ## Presentations
 ??[](https://liascript.github.io/course/?https://raw.githubusercontent.com/BerndSchmecka/lia-presentation/main/presentation.md#1)
 
-### Links to presentations
+### Student presentations
 
 https://liascript.github.io/course/?https://liamd.informatik.tu-freiberg.de//gQaQvO7iM/download#1
 
@@ -129,6 +129,6 @@ https://liascript.github.io/course/?https://liamd.informatik.tu-freiberg.de//NlA
 
 https://liascript.github.io/course/?https://liamd.informatik.tu-freiberg.de//DUuVeFZln/download#1
 
-### Feedback
+### Student feedback
 
 ![img1](https://cdn.discordapp.com/attachments/770570829280182272/861521699283402752/unknown.png)
