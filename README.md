@@ -86,7 +86,7 @@ For an overview of all Digital Fellows in Saxony from 2019 to 2022, please click
 
 ### Geoinformatics short courses
 
-??[](https://liascript.github.io/course/?https://liascript.github.io/course/?https://raw.githubusercontent.com/HueblerPatricia/LiaScriptTUBAF/main/DigitalImageFilters.md)
+??[](https://liascript.github.io/course/?https://raw.githubusercontent.com/HueblerPatricia/LiaScriptTUBAF/main/DigitalImageFilters.md)
 
 https://liascript.github.io/course/?https://raw.githubusercontent.com/HueblerPatricia/LiaScriptTUBAF/main/DigitalSignalProcessing.md
 
