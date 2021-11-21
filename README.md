@@ -85,11 +85,31 @@ For an overview of all Digital Fellows in Saxony from 2019 to 2022, please click
 <iframe src="https://video.tu-freiberg.de/media/embed?key=e87b984068e6be6ac2d41d9941e133dd&width=560&height=315&autoplay=false&autolightsoff=false&loop=false&chapters=false&related=false&responsive=false&t=0" data-src="" class="iframeLoaded" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" allowtransparency="true" scrolling="no" aria-label="media embed code" style=""></iframe>
 
 
-## Implementations
-
-### Presentations
+## Presentations
 ??[](https://liascript.github.io/course/?https://raw.githubusercontent.com/BerndSchmecka/lia-presentation/main/presentation.md#1)
 
-#### Feedback
+### Links to presentations
+
+https://liascript.github.io/course/?https://liamd.informatik.tu-freiberg.de//gQaQvO7iM/download#1
+
+https://liascript.github.io/course/?https://liamd.informatik.tu-freiberg.de//ie4UatRZP/download#1
+
+https://liamd.informatik.tu-freiberg.de/4mE3hsbLSVGu4Ob25uNzjg?view
+
+https://liascript.github.io/course/?https://raw.githubusercontent.com/EliasTechnik/EnglishPresentation/main/readme.md#1
+
+https://liascript.github.io/course/?https://raw.githubusercontent.com/BerndSchmecka/lia-presentation/main/presentation.md#1
+
+https://liascript.github.io/course/?https://liamd.informatik.tu-freiberg.de//aEPzKO8Zl/download#5
+
+https://liascript.github.io/course/?https://liamd.informatik.tu-freiberg.de//zoC4XJjuV/download#1
+
+https://liascript.github.io/course/?https://liamd.informatik.tu-freiberg.de//p_CguO_A-/download#1
+
+https://liascript.github.io/course/?https://liamd.informatik.tu-freiberg.de//NlA8AbfyC/download#1
+
+https://liascript.github.io/course/?https://liamd.informatik.tu-freiberg.de//DUuVeFZln/download#1
+
+### Feedback
 
 ![img1](https://cdn.discordapp.com/attachments/770570829280182272/861521699283402752/unknown.png)
