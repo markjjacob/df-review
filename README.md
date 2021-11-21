@@ -28,7 +28,25 @@ This is a brief overview of the work carried out by the team of Professor Sebast
 For an overview of all Digital Fellows in Saxony from 2019 to 2022, please click [here](https://bildungsportal.sachsen.de/portal/parentpage/projekte/digital-fellowships/fellows/ "https://bildungsportal.sachsen.de/portal/parentpage/projekte/digital-fellowships/fellows/").
 
 
-## Videos
+
+
+## Learning materials and tools
+
+### YouTube scriptgrabber
+
+@gr
+
+### Image describer
+
+??[](https://liascript.github.io/course/?https://raw.githubusercontent.com/markjjacob/EnglishImageDescriber/main/LiaScriptImageDescriber/ImageDescriber.md)
+
+### ONYX markdown converter
+
+??[](https://gelbeforelle.github.io/SHK-Tools/onyx-gen.html)
+
+### Arduino
+
+### Videos
 
 > **1. Introducing yourself**
 
@@ -67,24 +85,11 @@ For an overview of all Digital Fellows in Saxony from 2019 to 2022, please click
 <iframe src="https://video.tu-freiberg.de/media/embed?key=e87b984068e6be6ac2d41d9941e133dd&width=560&height=315&autoplay=false&autolightsoff=false&loop=false&chapters=false&related=false&responsive=false&t=0" data-src="" class="iframeLoaded" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" allowtransparency="true" scrolling="no" aria-label="media embed code" style=""></iframe>
 
 
-## Tools and Applications
-
-### YouTube scriptgrabber
-
-@gr
-
-### Image describer
-
-??[](https://liascript.github.io/course/?https://raw.githubusercontent.com/markjjacob/EnglishImageDescriber/main/LiaScriptImageDescriber/ImageDescriber.md)
-
-### Arduino
-
-### ONYX markdown converter
-
-??[](https://gelbeforelle.github.io/SHK-Tools/onyx-gen.html)
-
 ## Implementations
 
-## Publications
+### Presentations
+??(https://liascript.github.io/course/?https://raw.githubusercontent.com/BerndSchmecka/lia-presentation/main/presentation.md#1)
 
-## Future work
+#### Feedback
+
+![img1](https://cdn.discordapp.com/attachments/770570829280182272/861521699283402752/unknown.png)
