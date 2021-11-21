@@ -17,6 +17,7 @@ import:   https://raw.githubusercontent.com/kaptn-seebar/english-lia/main/grabbe
 
 This is a brief overview of the work carried out by the team of Professor Sebastian Zug and Dr Mark Jacob in the framework of a tandem [Digital Fellowship](https://bildungsportal.sachsen.de/portal/parentpage/projekte/digital-fellowships/ "https://bildungsportal.sachsen.de/portal/parentpage/projekte/digital-fellowships/") awarded by the SMWK (Saxon Ministry of Science, Culture and Tourism).
 
+
 | Parameter  | Value      |
 | :--------- | :--------- |
 | Start      | 01.07.2020 |
@@ -50,6 +51,10 @@ For an overview of all Digital Fellows in Saxony from 2019 to 2022, please click
   "maxTime": 105
 }
 ```
+
+#### Image describer
+
+https://liascript.github.io/course/?https://raw.githubusercontent.com/markjjacob/EnglishImageDescriber/main/LiaScriptImageDescriber/ImageDescriber.md
 
 ### Implementations
 
