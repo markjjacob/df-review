@@ -88,6 +88,8 @@ For an overview of all Digital Fellows in Saxony from 2019 to 2022, please click
 
 ??[](https://liascript.github.io/course/?https://raw.githubusercontent.com/HueblerPatricia/LiaScriptTUBAF/main/DigitalImageFilters.md)
 
+#### Links to more geoinfo
+
 https://liascript.github.io/course/?https://raw.githubusercontent.com/HueblerPatricia/LiaScriptTUBAF/main/DigitalSignalProcessing.md
 
 https://liascript.github.io/course/?https://raw.githubusercontent.com/HueblerPatricia/LiaScriptTUBAF/main/EdgeDetection.md
