@@ -30,14 +30,10 @@ For an overview of all Digital Fellows in Saxony from 2019 to 2022, please click
 
 ## Videos
 
-              {{1}}
-Introducing yourself
-
+1. Introducing yourself
 <iframe src="https://video.tu-freiberg.de/media/embed?key=4349372d9d69e2415729b1a3a2fab941&width=560&height=315&autoplay=false&autolightsoff=false&loop=false&chapters=false&related=false&responsive=false&t=0" data-src="" class="iframeLoaded" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" allowtransparency="true" scrolling="no" aria-label="media embed code" style=""></iframe>
 
-    {{2}}
-Introducing your topic
-
+2. Introducing your topic
 <iframe src="https://video.tu-freiberg.de/media/embed?key=5978d19af08232dfa88c03cb7ad2a14f&width=560&height=315&autoplay=false&autolightsoff=false&loop=false&chapters=false&related=false&responsive=false&t=0" data-src="" class="iframeLoaded" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" allowtransparency="true" scrolling="no" aria-label="media embed code" style=""></iframe>
 
 ### 3. Synonyms
