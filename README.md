@@ -61,7 +61,7 @@ For an overview of all Digital Fellows in Saxony from 2019 to 2022, please click
 
 #### Image describer
 
-https://liascript.github.io/course/?https://raw.githubusercontent.com/markjjacob/EnglishImageDescriber/main/LiaScriptImageDescriber/ImageDescriber.md
+??[preview-lia](https://liascript.github.io/course/?https://raw.githubusercontent.com/markjjacob/EnglishImageDescriber/main/LiaScriptImageDescriber/ImageDescriber.md)
 
 #### Arduino
 
