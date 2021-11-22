@@ -40,6 +40,10 @@ For an overview of all Digital Fellows in Saxony from 2019 to 2022, please click
 
 ??[](https://liascript.github.io/course/?https://raw.githubusercontent.com/markjjacob/EnglishImageDescriber/main/LiaScriptImageDescriber/ImageDescriber.md)
 
+#### Student description
+
+![](https://github.com/markjjacob/df-review/blob/main/Images/yannic_reviewed_by_chris.pdf)
+
 ### ONYX markdown converter
 
 ??[](https://gelbeforelle.github.io/SHK-Tools/onyx-gen.html)
