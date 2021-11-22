@@ -109,7 +109,7 @@ https://liascript.github.io/course/?https://raw.githubusercontent.com/HueblerPat
 https://liascript.github.io/course/?https://raw.githubusercontent.com/HueblerPatricia/LiaScriptTUBAF/main/TraveltimeCurves.md
 
 ## Presentations
-??[](https://liascript.github.io/course/?https://raw.githubusercontent.com/BerndSchmecka/lia-presentation/main/presentation.md#1)
+??[ExamplePresentation](https://liascript.github.io/course/?https://raw.githubusercontent.com/BerndSchmecka/lia-presentation/main/presentation.md#1)
 
 ### Student presentations
 
