@@ -15,7 +15,7 @@ import:   https://raw.githubusercontent.com/kaptn-seebar/english-lia/main/grabbe
 
 [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/markjjacob/df-review/main/README.md#1)
 
-This is a brief overview of the work carried out by the team of Professor Sebastian Zug and Dr Mark Jacob in the framework of a tandem [Digital Fellowship](https://bildungsportal.sachsen.de/portal/parentpage/projekte/digital-fellowships/ "https://bildungsportal.sachsen.de/portal/parentpage/projekte/digital-fellowships/") awarded by the SMWK (Saxon Ministry of Science, Culture and Tourism).
+This is a brief overview of the work carried out by the team of Professor Sebastian Zug and Dr Mark Jacob in the framework of a tandem [Digital Fellowship](https://bildungsportal.sachsen.de/portal/parentpage/projekte/digital-fellowships/) awarded by the SMWK (Saxon Ministry of Science, Culture and Tourism).
 
 
 | Parameter  | Value      |
@@ -25,7 +25,7 @@ This is a brief overview of the work carried out by the team of Professor Sebast
 | Duration   | 18 months  |
 | Amount     | €25,000    |
 
-For an overview of all Digital Fellows in Saxony from 2019 to 2022, please click [here](https://bildungsportal.sachsen.de/portal/parentpage/projekte/digital-fellowships/fellows/ "https://bildungsportal.sachsen.de/portal/parentpage/projekte/digital-fellowships/fellows/").
+For an overview of all Digital Fellows in Saxony from 2019 to 2022, please click [here](https://bildungsportal.sachsen.de/portal/parentpage/projekte/digital-fellowships/fellows/).
 
 
 
