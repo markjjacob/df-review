@@ -2,7 +2,7 @@
 
 author:   Mark Jacob
 email:    mark.jacob@iuz.tu-freiberg.de
-version:  0.0.1
+version:  0.0.2
 language: de
 narrator: UK English Female
 
@@ -22,7 +22,7 @@ icon:     https://upload.wikimedia.org/wikipedia/commons/d/de/Logo_TU_Bergakadem
 
 This is a brief overview of the work carried out by the team of Professor Sebastian Zug and Dr Mark Jacob in the framework of a tandem [Digital Fellowship](https://bildungsportal.sachsen.de/portal/parentpage/projekte/digital-fellowships/) awarded by the SMWK (Saxon Ministry of Science, Culture and Tourism).
 
-<!-- data-type="none" -->
+<!--data-type="none"-->
 | Parameter  | Value      |
 | :--------- | :--------- |
 | Start      | 01.07.2020 |
