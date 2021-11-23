@@ -27,14 +27,17 @@ This is a brief overview of the work carried out by the team of Professor Sebast
 
 For an overview of all Digital Fellows in Saxony from 2019 to 2022, please click [here](https://bildungsportal.sachsen.de/portal/parentpage/projekte/digital-fellowships/fellows/).
 
-
-
-
 ## Learning materials and tools
 
 ### YouTube scriptgrabber
 
 @gr
+
+#### German to English translation
+
+![](https://media.discordapp.net/attachments/723073665813577748/862630098654199808/unknown.png)
+
+![](https://media.discordapp.net/attachments/723073665813577748/862630257265737738/unknown.png)
 
 ### Image describer
 
