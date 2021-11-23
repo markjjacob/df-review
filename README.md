@@ -2,22 +2,27 @@
 
 author:   Mark Jacob
 email:    mark.jacob@iuz.tu-freiberg.de
-version:  0.0.1
+version:  0.0.2
 language: de
 narrator: UK English Female
 
 import:   https://raw.githubusercontent.com/kaptn-seebar/english-lia/main/grabber/grabber.md
+          https://github.com/LiaTemplates/AVR8js/main/README.md#10
+          https://raw.githubusercontent.com/liascript-templates/plantUML/master/README.md
+          https://github.com/liascript/CodeRunner
 
+icon:     https://upload.wikimedia.org/wikipedia/commons/d/de/Logo_TU_Bergakademie_Freiberg.svg
 
 -->
 
-# Digital Fellows
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/markjjacob/df-review/main/README.md#1)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/SebastianZug/df-review/main/README.md)
+
+# Digital Fellows - Summary 2021
 
 This is a brief overview of the work carried out by the team of Professor Sebastian Zug and Dr Mark Jacob in the framework of a tandem [Digital Fellowship](https://bildungsportal.sachsen.de/portal/parentpage/projekte/digital-fellowships/) awarded by the SMWK (Saxon Ministry of Science, Culture and Tourism).
 
-
+<!--data-type="none"-->
 | Parameter  | Value      |
 | :--------- | :--------- |
 | Start      | 01.07.2020 |
@@ -29,31 +34,82 @@ For an overview of all Digital Fellows in Saxony from 2019 to 2022, please click
 
 ## Learning materials and tools
 
-### YouTube scriptgrabber
 
-@gr
+Collection of online ...
 
-#### German to English translation
+1. learning materials (programming content)
+2. instructions for presenting scientific content (good and bad examples)
+3. tools
 
-![](https://media.discordapp.net/attachments/723073665813577748/862630098654199808/unknown.png)
+... to prepare student presentations (4.)
 
-![](https://media.discordapp.net/attachments/723073665813577748/862630257265737738/unknown.png)
+We focused the development for this project on [LiaScript](https://liascript.github.io/).
 
-### Image describer
+### Learning materials
 
-??[ImageDescriber](https://liascript.github.io/course/?https://raw.githubusercontent.com/markjjacob/EnglishImageDescriber/main/LiaScriptImageDescriber/ImageDescriber.md)
+**Embedded Coding Environment**
 
-#### Student description
+<div>
+<wokwi-led color="red" pin="13" port="B"></wokwi-led>
+</div>
 
-??[StudentDescription](https://github.com/markjjacob/df-review/blob/main/Images/yannic_reviewed_by_chris.pdf)
+```cpp helloWorldinArduino.cpp
+void setup() {
+  pinMode(LED_BUILTIN, OUTPUT);
+}
 
-### ONYX markdown converter
+void loop() {
+  digitalWrite(LED_BUILTIN, HIGH);
+  delay(1000);
+  digitalWrite(LED_BUILTIN, LOW);
+  delay(1000);
+}
+```
+@AVR8js.sketch
 
-??[OnyxConverter](https://gelbeforelle.github.io/SHK-Tools/onyx-gen.html)
 
-### Arduino
+**Programming Environment**
 
-### Videos
+```csharp  Coderunner.cs9
+using System;
+using System.Collections.Generic;
+using System.Collections;
+using System.Linq;
+using System.Text;
+
+int n;
+Console.Write("Number of primes: ");
+n = int.Parse(Console.ReadLine());
+
+ArrayList primes = new ArrayList();
+primes.Add(2);
+
+for(int i = 3; primes.Count < n; i++) {
+	bool isPrime = true;
+	foreach(int num in primes) isPrime &= i % num != 0;
+	if(isPrime) primes.Add(i);
+}
+
+Console.Write("Primes: ");
+foreach(int prime in primes) Console.Write($" {prime}");
+```
+```xml   -myproject.csproj
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+</Project>
+```
+@LIA.eval(`["Program.cs", "project.csproj"]`, `dotnet build -nologo`, `dotnet run -nologo`)
+
+
+**Complete course materials for secific topics**
+
+??[DigitalImageFilters](https://liascript.github.io/course/?https://raw.githubusercontent.com/HueblerPatricia/LiaScriptTUBAF/main/DigitalImageFilters.md)
+
+
+### Instructions for presenting scientific
 
 > **1. Introducing yourself**
 
@@ -91,51 +147,63 @@ For an overview of all Digital Fellows in Saxony from 2019 to 2022, please click
 
 <iframe src="https://video.tu-freiberg.de/media/embed?key=e87b984068e6be6ac2d41d9941e133dd&width=560&height=315&autoplay=false&autolightsoff=false&loop=false&chapters=false&related=false&responsive=false&t=0" data-src="" class="iframeLoaded" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" allowtransparency="true" scrolling="no" aria-label="media embed code" style=""></iframe>
 
-### Geoinformatics short courses
 
-??[DigitalImageFilters](https://liascript.github.io/course/?https://raw.githubusercontent.com/HueblerPatricia/LiaScriptTUBAF/main/DigitalImageFilters.md)
 
-#### Links to more geoinfo
+### Tools for digital learning
 
-https://liascript.github.io/course/?https://raw.githubusercontent.com/HueblerPatricia/LiaScriptTUBAF/main/DigitalSignalProcessing.md
+     {{0-1}}
+*******************************************************************************
 
-https://liascript.github.io/course/?https://raw.githubusercontent.com/HueblerPatricia/LiaScriptTUBAF/main/EdgeDetection.md
+**Image describer**
 
-https://liascript.github.io/course/?https://raw.githubusercontent.com/HueblerPatricia/LiaScriptTUBAF/main/IntroductionToNumpy.md
+??[ImageDescriber](https://liascript.github.io/course/?https://raw.githubusercontent.com/markjjacob/EnglishImageDescriber/main/LiaScriptImageDescriber/ImageDescriber.md)
 
-https://liascript.github.io/course/?https://raw.githubusercontent.com/HueblerPatricia/LiaScriptTUBAF/main/MonteCarlo.md
+[StudentDescription](https://github.com/markjjacob/df-review/blob/main/Images/yannic_reviewed_by_chris.pdf)
 
-https://liascript.github.io/course/?https://raw.githubusercontent.com/HueblerPatricia/LiaScriptTUBAF/main/NumericalIntegration.md
+*******************************************************************************
 
-https://liascript.github.io/course/?https://raw.githubusercontent.com/HueblerPatricia/LiaScriptTUBAF/main/PseudocolorsHistograms.md
+       {{1-2}}
+*******************************************************************************
 
-https://liascript.github.io/course/?https://raw.githubusercontent.com/HueblerPatricia/LiaScriptTUBAF/main/TraveltimeCurves.md
+**ONYX markdown converter**
+
+
+<!-- class="translate"-->
+``` markdown
+What is the correct spelling of H(D)D?
+
+[(X)] hard (**disk**) drive
+[( )] hard (**desk**) drive
+[(x)] hard (**disc**) drive
+```
+
+
+What is the correct spelling of H(D)D?
+
+[(X)] hard (**disk**) drive
+[( )] hard (**desk**) drive
+[(x)] hard (**disc**) drive
+
+> Take a closer view to LiaScript quizzes in the [Documentation](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaScript/docs/master/README.md#59)
+
+??[OnyxConverter](https://gelbeforelle.github.io/SHK-Tools/onyx-gen.html)
+
+*******************************************************************************
+
+       {{2-3}}
+*******************************************************************************
+
+**Video analysis tool**
+
+![alt-text](./Images/VideoGrabber.png)
+
+*******************************************************************************
 
 ## Presentations
+
 ??[ExamplePresentation](https://liascript.github.io/course/?https://raw.githubusercontent.com/BerndSchmecka/lia-presentation/main/presentation.md#1)
 
-### Student presentations
 
-https://liascript.github.io/course/?https://liamd.informatik.tu-freiberg.de//gQaQvO7iM/download#1
-
-https://liascript.github.io/course/?https://liamd.informatik.tu-freiberg.de//ie4UatRZP/download#1
-
-https://liamd.informatik.tu-freiberg.de/4mE3hsbLSVGu4Ob25uNzjg?view
-
-https://liascript.github.io/course/?https://raw.githubusercontent.com/EliasTechnik/EnglishPresentation/main/readme.md#1
-
-https://liascript.github.io/course/?https://raw.githubusercontent.com/BerndSchmecka/lia-presentation/main/presentation.md#1
-
-https://liascript.github.io/course/?https://liamd.informatik.tu-freiberg.de//aEPzKO8Zl/download#5
-
-https://liascript.github.io/course/?https://liamd.informatik.tu-freiberg.de//zoC4XJjuV/download#1
-
-https://liascript.github.io/course/?https://liamd.informatik.tu-freiberg.de//p_CguO_A-/download#1
-
-https://liascript.github.io/course/?https://liamd.informatik.tu-freiberg.de//NlA8AbfyC/download#1
-
-https://liascript.github.io/course/?https://liamd.informatik.tu-freiberg.de//DUuVeFZln/download#1
-
-### Student feedback
+## Student feedback
 
 ![img1](https://cdn.discordapp.com/attachments/770570829280182272/861521699283402752/unknown.png)
