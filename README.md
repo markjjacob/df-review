@@ -16,7 +16,7 @@ icon:     https://upload.wikimedia.org/wikipedia/commons/d/de/Logo_TU_Bergakadem
 -->
 
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/markjjacob/df-review/main/README.md#1)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/SebastianZug/df-review/main/README.md)
 
 # Digital Fellows - Summary 2021
 
